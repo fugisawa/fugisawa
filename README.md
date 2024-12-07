@@ -1,6 +1,6 @@
 # Olá, seja bem-vindo(a)! 👋
 
-Sou um servidor público federal, pesquisador e estudante de engenharia de Machine Learning e Inteligência Artificial. Minha trajetória combina o rigor técnico da análise de dados e algoritmos com um olhar atento sobre o contexto humano, social e cultural.
+Sou um servidor público federal, pesquisador e estudante de engenharia de Machine Learning e Inteligência Artificial. Minha trajetória profissional e acadêmica combina o rigor técnico da análise de dados e algoritmos com um olhar atento sobre o contexto humano, social e cultural.
 
 ## Sobre mim
 - **Formação e Pesquisa:** 🎓 Tenho foco em projetos envolvendo ML, IA, análise de dados e metodologias de pesquisa e ensino. Estou sempre em busca de novos desafios, aprimorando modelos, testando hipóteses e estudando abordagens mais robustas e eficientes.
